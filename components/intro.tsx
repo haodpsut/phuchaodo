@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://res.cloudinary.com/gr3atcode/image/upload/v1742834698/ME/profile_k1ycpc.jpg"
+              src="https://res.cloudinary.com/dwevwz6yw/image/upload/v1751039692/phuchao_dzwa03.png"
               alt="Phuc Hao Do portrait"
               width="192"
               height="192"
